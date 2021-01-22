@@ -13,4 +13,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Documentation
 
-This was a small app I made with vanillaJs using local storage so showcase a cinema screen widget
+This was a small app I made with vanillaJs using local storage to showcase a cinema screen widget
